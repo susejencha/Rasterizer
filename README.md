@@ -31,6 +31,7 @@ All geometry and raster operations are processed entirely on the CPU, without Op
 - `model.hpp` – triangle, instance, and scene structs
 - `render.hpp` – triangle rasterization, clipping, and drawing logic
 - `output.ppm` – generated image (after running)
+- `output-image` – screenshot of the ppm
 
 ## 🕯️ How to Run 🕯️
 
